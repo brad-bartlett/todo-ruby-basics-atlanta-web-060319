@@ -15,7 +15,6 @@ end
 
 def return_a_value(phrase)
   phrase = "Nice"
-  puts phrase
 end
 
 def last_evaluated_value
