@@ -11,7 +11,9 @@ def argue(phrase)
 end
 
 def greeting(greening, name)
-  "Hello, #{Ada}"
+  greening = "Hello"
+  name = "Ada"
+  puts "#{greeting}, #{name}"
 end
 
 def return_a_value
